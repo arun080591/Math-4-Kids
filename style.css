@@ -181,6 +181,10 @@ nav a{
     flex-direction: column;
     gap: 10px;
   }
+  
+  .options{
+    align-items: center;
+  }
 }
 
 
